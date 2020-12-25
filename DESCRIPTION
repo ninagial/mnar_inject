@@ -1,7 +1,8 @@
-Package: mnar_inject
+Package: mnarinject
 Title: Create Simulated Likert Datasets with Missing Values
 Description: Create Simulated Likert datasets with Missing Values. Misfitting Items and Missing Values are available, both At-Random, and Not-At-Random.
 Version: 0.1.0
-Author: Nina Giallousi, ninagiallousi@gmail.com
-Maintainer: Nina Giallousi, ninagiallousi@gmail.com
+Author: Nina Giallousi <ninagiallousi@gmail.com>
+Maintainer: Nina Giallousi <ninagiallousi@gmail.com>
 License: MIT License
+RoxygenNote: 7.1.1
